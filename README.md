@@ -23,3 +23,7 @@
 	- Copyleft : Le copyleft est une façon de rendre un programme ou tout autre œuvre libre, et qui requière que toutes les versions modifiées et étendues du programme soient libres également. Le logiciel sous copyleft est un logiciel dont les conditions de distribution interdisent aux nouveaux distributeurs d'ajouter des restrictions supplémentaires lorsqu'ils redistribuent ou modifient le logiciel.	
 	(https://forum.ubuntu-fr.org/viewtopic.php?id=39233)
 
+# Que sont les Creatives Commons ?
+
+	- Creative Commons (CC) est une organisation à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs.
+	(https://fr.wikipedia.org/wiki/Creative_Commons)
