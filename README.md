@@ -139,3 +139,8 @@
     Cette méthode est souvent combinée avec l'attaque par dictionnaire et par table arc-en-ciel pour trouver le secret plus rapidement.
     (https://fr.wikipedia.org/wiki/Attaque_par_force_brute)
 
+# Qui est Linus Torvalds ?
+        Quels sont ses plus grands développements ?
+
+    - Linus Benedict Torvalds, né le 28 décembre 1969 à Helsinki en Finlande, est un informaticien américano-finlandais. Il est connu pour avoir créé en 1991 le noyau Linux dont il continue de diriger le développement. Il en est considéré comme le « dictateur bienveillant ».
+    (https://fr.wikipedia.org/wiki/Linus_Torvalds)    
