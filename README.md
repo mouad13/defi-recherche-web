@@ -15,6 +15,14 @@
 # Qu’est-ce que cela :  8.8.8.8
 		            	192.168.0.1
 						255.255.255.0
-						127.0.0.1	
+                        D127.0.0.1	
 
-	- c'est des adresses IP.(https://fr.wikipedia.org/wiki/Adresse_IP)								    
+	- c'est des adresses IP.(https://fr.wikipedia.org/wiki/Adresse_IP)	
+
+# Que sont le copyright et le copyleft ?
+	
+	- copyright : Droit exclusif que se réserve un auteur ou son représentant d'exploiter commercialement pendant un nombre déterminé d'années son œuvre littéraire, artistique ou scientifique.
+
+	- Copyleft : Le copyleft est une façon de rendre un programme ou tout autre œuvre libre, et qui requière que toutes les versions modifiées et étendues du programme soient libres également. Le logiciel sous copyleft est un logiciel dont les conditions de distribution interdisent aux nouveaux distributeurs d'ajouter des restrictions supplémentaires lorsqu'ils redistribuent ou modifient le logiciel.	
+	(https://forum.ubuntu-fr.org/viewtopic.php?id=39233)
+
