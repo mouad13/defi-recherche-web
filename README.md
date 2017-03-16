@@ -84,4 +84,12 @@
      Les travaux de Swartz ont également porté sur la sociologie, l'éducation civique et le militantisme.
      Il a aidé à lancer le Progressive Change Campaign Committee en 2009, afin d'en apprendre plus sur le cybermilitantisme et son efficacité. En 2010, il est devenu chercheur au laboratoire « Safra » de recherche sur la corruption institutionnelle de l'université Harvard, dirigé par Lawrence Lessig.
      Il a fondé le cyber-groupe Demand Progress, connu pour sa campagne contre le Stop Online Piracy Act (SOPA).
-     Il se suicide le 11 janvier 2013 à l'âge de 26 ans dans son appartement. Son procès fédéral en lien avec des accusations de fraude électronique devait débuter le mois suivant. 	      	
+     Il se suicide le 11 janvier 2013 à l'âge de 26 ans dans son appartement. Son procès fédéral en lien avec des accusations de fraude électronique devait débuter le mois suivant.
+     (https://fr.wikipedia.org/wiki/Aaron_Swartz) 
+
+# Qu’est-ce que le projet GNU ?
+
+	- GNU est un projet de système d’exploitation libre lancé en 1983 par Richard Stallman, puis maintenu par le projet GNU. Son nom est un acronyme récursif qui signifie en anglais « GNU’s Not UNIX » (littéralement, « GNU n’est pas UNIX »). Il reprend les concepts et le fonctionnement d’UNIX.
+    Les logiciels qui composent GNU sont généralement utilisés en association avec des logiciels libres issus d'autres projets tels que le noyau Linux.
+    Son symbole est un gnou, bovidé vivant en Afrique. 
+    (https://fr.wikipedia.org/wiki/GNU)     	      	
