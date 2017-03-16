@@ -117,3 +117,10 @@
     Depuis le milieu des années 1990, il consacre la majeure partie de son temps à la promotion des logiciels libres auprès de divers publics un peu partout dans le monde. Depuis quelques années, il fait campagne contre les brevets logiciels et la gestion des droits numériques (DRM). Le temps qu’il alloue encore à la programmation est dédié à GNU Emacs, bien qu’il ne soit plus le mainteneur principal depuis février 2008. Il gagne sa vie en partie avec les cachets de conférencier qu’on lui donne à l’occasion ou des prix qu’on lui remet.
     (https://fr.wikipedia.org/wiki/Richard_Stallman)
 
+# Comment fonctionnent les bang de Duck Duck Go ?
+
+	- DuckDuckGo permet de rechercher directement à l’intérieur de centaines de sites.
+    Il suffit d’utiliser une commande appelée !bang, cette syntaxe fonctionne pour la plupart des sites internet les plus populaires, par exemple ! youtube pour rechercher à l’intérieur de Youtube. Il suffit donc d’indiquer à la suite de votre requête un point d’exclamation suivi du nom du site ou du diminutif y correspondant
+
+    Il existe également des versions plus courtes, par exemple ! g (google), ! i ( google images), ! yt (youtube)
+    (http://dcorbille.free.fr/?p=2873)
