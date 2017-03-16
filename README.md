@@ -80,16 +80,32 @@
 # Qui est Aaron Swartz ?
  
      -   Aaron Hillel Swartz né le 8 novembre 1986 à Chicago, mort le 11 janvier 2013 à New York est un informaticien américain, écrivain, meneur politique et militant de l'Internet.
+     
      Swartz s'est impliqué dans le développement du format de flux Web RSS, l'organisation Creative Commons, le cadriciel de site Web web.py et le site d'actualité Reddit, dans lequel il est devenu associé après fusion avec sa compagnie, Infogami.
+     
      Les travaux de Swartz ont également porté sur la sociologie, l'éducation civique et le militantisme.
+     
      Il a aidé à lancer le Progressive Change Campaign Committee en 2009, afin d'en apprendre plus sur le cybermilitantisme et son efficacité. En 2010, il est devenu chercheur au laboratoire « Safra » de recherche sur la corruption institutionnelle de l'université Harvard, dirigé par Lawrence Lessig.
      Il a fondé le cyber-groupe Demand Progress, connu pour sa campagne contre le Stop Online Piracy Act (SOPA).
+     
      Il se suicide le 11 janvier 2013 à l'âge de 26 ans dans son appartement. Son procès fédéral en lien avec des accusations de fraude électronique devait débuter le mois suivant.
      (https://fr.wikipedia.org/wiki/Aaron_Swartz) 
 
 # Qu’est-ce que le projet GNU ?
 
 	- GNU est un projet de système d’exploitation libre lancé en 1983 par Richard Stallman, puis maintenu par le projet GNU. Son nom est un acronyme récursif qui signifie en anglais « GNU’s Not UNIX » (littéralement, « GNU n’est pas UNIX »). Il reprend les concepts et le fonctionnement d’UNIX.
+    
     Les logiciels qui composent GNU sont généralement utilisés en association avec des logiciels libres issus d'autres projets tels que le noyau Linux.
     Son symbole est un gnou, bovidé vivant en Afrique. 
-    (https://fr.wikipedia.org/wiki/GNU)     	      	
+    (https://fr.wikipedia.org/wiki/GNU)
+
+# Quelles sont les différences entre le Http et le Https ?
+
+	- HTTP est l’acronyme de “Hyper Text Transfer Protocol”. C’est un protocole utilisé sur Internet pour transmettre les informations entre un serveur et un client. Jusque là c’est bien et on n’a pas besoin de rentrer dans les détails techniques. Le plus important pour nous, c’est le petit “S” à la fin qui veut bien entendu dire “Secure” ou sécurisé en bon français.
+
+    Si vous visitez un site Web ou une page Web, et que vous jetez un coup d’oeil à l’adresse dans le navigateur Web, ça commencera surement avec un http:// . Cela signifie que le site que vous visitez est entrain de parler avec votre navigateur en utilisant le langage ordinaire «non sécurisé». En d’autres termes, il est possible pour quelqu’un qui est entrain de lire le code qui transite entre votre ordinateur et le serveur du site web d’écouter toute la conversation entre votre ordinateur et le site. Par exemple Si vous remplissez un formulaire sur un site, quelqu’un pourrait voir les informations que vous envoyez à ce site. C’est pourquoi je vous le dis tout de suite. Ne rentrez jamais votre numéro de carte de crédit dans un site en http! Jamais!!
+
+    Par contre, si l’adresse du site commence par un https:// , cela signifie que votre ordinateur est entrain de parler avec le site web un langage sécurisé et crypté que personne ne pourrait espionner. Si jamais un site vous demande d’entrer vos informations de carte de crédit, vous devez automatiquement regarder en haut pour voir si l’adresse commence par un https://. Il convient de souligner que le fait d’avoir un https:// dans l’adresse d’un site web ne signifie pas qu’il faudrait faire lui confiance automatiquement, même les escrocs peuvent avoir des sites en https! 
+
+    Autre chose, plusieurs entreprises disent vouloir un site en https par sécurité. J’aimerais leur répondre que, pour un simple site vitrine d’entreprise, pas la peine de chercher du https, le http est largement suffisant puisqu’il n’y a pas de transactions bancaires ou d’échanges de données confidentielles. 
+    (http://www.kingofgeek.com/2014/06/difference-http-https/)        	      	
