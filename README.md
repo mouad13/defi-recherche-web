@@ -36,4 +36,10 @@
 # Qu'est-ce que Qwant ?
 	
 	- Qwant est un moteur de recherche français, créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013. Il annonce ne pas tracer ses utilisateurs afin de garantir la vie privée, et se veut neutre dans l'affichage des résultats.
-	(https://fr.wikipedia.org/wiki/Qwant)		
+	(https://fr.wikipedia.org/wiki/Qwant)
+
+# Qui est Steve Wozniak ?
+	
+	- Stephen Gary Wozniak, né le 11 août 1950 à San José, aussi appelé Woz, est un informaticien, professeur d'informatique et électronicien américain.
+    Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique.
+    (https://fr.wikipedia.org/wiki/Steve_Wozniak)
