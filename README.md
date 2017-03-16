@@ -124,3 +124,8 @@
 
     Il existe également des versions plus courtes, par exemple ! g (google), ! i ( google images), ! yt (youtube)
     (http://dcorbille.free.fr/?p=2873)
+
+# Qui est Marissa Mayer ?
+
+	- Marissa Ann Mayer, née le 30 mai 1975 à Wausau dans le Wisconsin, est une informaticienne et chef d'entreprise américaine. Elle occupe de 2012 à 2017 le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente responsable des services de cartographie et de géolocalisation.
+	(https://fr.wikipedia.org/wiki/Marissa_Mayer)
