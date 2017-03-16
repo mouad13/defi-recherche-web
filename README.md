@@ -108,4 +108,12 @@
     Par contre, si l’adresse du site commence par un https:// , cela signifie que votre ordinateur est entrain de parler avec le site web un langage sécurisé et crypté que personne ne pourrait espionner. Si jamais un site vous demande d’entrer vos informations de carte de crédit, vous devez automatiquement regarder en haut pour voir si l’adresse commence par un https://. Il convient de souligner que le fait d’avoir un https:// dans l’adresse d’un site web ne signifie pas qu’il faudrait faire lui confiance automatiquement, même les escrocs peuvent avoir des sites en https! 
 
     Autre chose, plusieurs entreprises disent vouloir un site en https par sécurité. J’aimerais leur répondre que, pour un simple site vitrine d’entreprise, pas la peine de chercher du https, le http est largement suffisant puisqu’il n’y a pas de transactions bancaires ou d’échanges de données confidentielles. 
-    (http://www.kingofgeek.com/2014/06/difference-http-https/)        	      	
+    (http://www.kingofgeek.com/2014/06/difference-http-https/)
+
+# Qui est Richard Stallman ?
+
+	- Richard Matthew Stallman (né à Manhattan, le 16 mars 1953), connu aussi sous les initiales rms, est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a popularisé le terme anglais « copyleft ». Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels dont les plus connus des développeurs sont l’éditeur de texte GNU Emacs, le compilateur C de GNU (GCC), le débogueur GNU (gdb) mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make.
+
+    Depuis le milieu des années 1990, il consacre la majeure partie de son temps à la promotion des logiciels libres auprès de divers publics un peu partout dans le monde. Depuis quelques années, il fait campagne contre les brevets logiciels et la gestion des droits numériques (DRM). Le temps qu’il alloue encore à la programmation est dédié à GNU Emacs, bien qu’il ne soit plus le mainteneur principal depuis février 2008. Il gagne sa vie en partie avec les cachets de conférencier qu’on lui donne à l’occasion ou des prix qu’on lui remet.
+    (https://fr.wikipedia.org/wiki/Richard_Stallman)
+
