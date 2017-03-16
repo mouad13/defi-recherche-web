@@ -12,10 +12,7 @@
 	- Le web n'est qu'un des services accessibles via Internet, et il y en a bien d'autre. Emails, messagerie instantanée, etc. En tout cas, retenez ceci : Internet est le réseau. Le web est un service.
 	(https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/)
 
-# Qu’est-ce que cela :  8.8.8.8
-		            	192.168.0.1
-						255.255.255.0
-                        D127.0.0.1	
+# Qu’est-ce que cela :  8.8.8.8/ 192.168.0.1/ 255.255.255.0/ 127.0.0.1	
 
 	- c'est des adresses IP.(https://fr.wikipedia.org/wiki/Adresse_IP)	
 
