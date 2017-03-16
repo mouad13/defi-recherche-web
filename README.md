@@ -43,3 +43,8 @@
 	- Stephen Gary Wozniak, né le 11 août 1950 à San José, aussi appelé Woz, est un informaticien, professeur d'informatique et électronicien américain.
     Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique.
     (https://fr.wikipedia.org/wiki/Steve_Wozniak)
+
+# D'où vient l'expression "bug informatique" ?
+
+	- Son usage date de 1945 et du temps des premiers ordinateurs. Énormes machines, fonctionnant en particulier avec des lampes. Et il arriva que certains insectes vinrent s’y brûler les ailes, grillèrent alors les lampes, générant ainsi la panne. Plus précisément, l’expression nous vient de Grace Murray Hopper. Engagée en 1943 dans la marine états-unienne, elle est chargée de programmer le Harvard Mark I, considéré comme le premier vrai ordinateur automatique.  
+	(http://astucieux-filemaker.com/un-bug-est-ne/)
