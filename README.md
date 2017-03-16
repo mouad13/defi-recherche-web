@@ -48,3 +48,31 @@
 
 	- Son usage date de 1945 et du temps des premiers ordinateurs. Énormes machines, fonctionnant en particulier avec des lampes. Et il arriva que certains insectes vinrent s’y brûler les ailes, grillèrent alors les lampes, générant ainsi la panne. Plus précisément, l’expression nous vient de Grace Murray Hopper. Engagée en 1943 dans la marine états-unienne, elle est chargée de programmer le Harvard Mark I, considéré comme le premier vrai ordinateur automatique.  
 	(http://astucieux-filemaker.com/un-bug-est-ne/)
+
+# Quels sont les prochains rendez-vous tech de Toulouse ?
+
+	- Innovation Days :
+      C’est un événement à ne pas rater dans le secteur de l’Internet des Objets. Les Innovation Days se déroulent les 22 et 23 septembre à Labège. Organisé par l’IoT Valley, qui regroupe des start-up autour de l’Internet des Objets, cet événement est très attendu dans le milieu des nouvelles technologies.
+      L’IoT Valley accueille notamment Raouti Chehih, directeur d’EuraTechnologies (un des représentants lillois du label French Tech), Taïg Khris (OnOff), Christelle Lemaire (directrice des ventes chez Microsoft), Stéphane Siebert (directeur de recherche au CEA Tech) ou le Toulousain Ludovic Le Moan (Sigfox).
+      Au programme : des conférences, des pitchs de startup ainsi qu’un show-room présentant les toutes dernières innovations technologiques.
+      
+      Renseignements sur www.iot-valley.fr  
+
+    - Cyber@Hack :
+      L’école d’informatique Epitech et la société toulousaine ITrust, spécialisée en cybersécurité, sont à l’initiative, vendredi 23 septembre, de la troisième édition de Cyber@Hack : démonstrations de hacking pour présenter les nouvelles cyber menaces, conférences autour de la protection des objets connectés, compétition de hacking…
+      
+      Inscription gratuite sur www.cyberathack.com 
+
+    - BigUp 4 Startup :
+      Il est encore temps de candidater ! Clôture des dossiers le jeudi 22 à minuit. BigUp 4 Startup permet à de jeunes entrepreneurs de rencontrer des grands groupes (Airbus, Société Générale, La Poste…) pour répondre à leurs besoins.
+     
+      Objectif : favoriser la signature de contrats.
+     
+      Dossier à déposer via le site www.bigup4startup.com 
+
+    - La Mêlée Numérique
+      Du 26 septembre au 1er octobre, La Mêlée programme plusieurs événements : animations lundi 26 et mardi 27 sur les allées Jules-Guesde, inauguration lundi 26, à 19 h, de la Cantine au Quai des Savoirs, Trophées de l’économie numérique le jeudi 29 à la Région…
+
+	  Planning et inscription gratuite sur www.meleenumerique.com  
+
+	  (http://actu.cotetoulouse.fr/quatre-rendez-vous-high-tech-pas-rater-toulouse_45751/)    	
