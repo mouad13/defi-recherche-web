@@ -31,4 +31,9 @@
 # Qui est Grace Hopper ?
 
 	- Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959.
-	(https://fr.wikipedia.org/wiki/Grace_Hopper)	
+	(https://fr.wikipedia.org/wiki/Grace_Hopper)
+
+# Qu'est-ce que Qwant ?
+	
+	- Qwant est un moteur de recherche français, créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013. Il annonce ne pas tracer ses utilisateurs afin de garantir la vie privée, et se veut neutre dans l'affichage des résultats.
+	(https://fr.wikipedia.org/wiki/Qwant)		
