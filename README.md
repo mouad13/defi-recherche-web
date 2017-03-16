@@ -7,7 +7,14 @@
 
 	- Internet est le réseau informatique mondial, c'est l'infrastructure globale, basée sur le protocole IP, et sur laquelle s'appuient de nombreux autres services. Dont le web.
 
-	- Le World Wide Web, c'est le système qui nous permet de naviguer de pages en pages en cliquant sur des liens grâce à un navigateur. Quand on veut se la jouer, on parle de système hypertexte.
+	- Le Web, c'est le système qui nous permet de naviguer de pages en pages en cliquant sur des liens grâce à un navigateur.
 
 	- Le web n'est qu'un des services accessibles via Internet, et il y en a bien d'autre. Emails, messagerie instantanée, etc. En tout cas, retenez ceci : Internet est le réseau. Le web est un service.
-	(https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/)    
+	(https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/)
+
+# Qu’est-ce que cela :  8.8.8.8
+		            	192.168.0.1
+						255.255.255.0
+						127.0.0.1	
+
+	- c'est des adresses IP.(https://fr.wikipedia.org/wiki/Adresse_IP)								    
